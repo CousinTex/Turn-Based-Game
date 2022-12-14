@@ -134,3 +134,15 @@ Received Import Request.
   path: Assets/Scripts/BattleHUD.cs
   artifactKey: Guid(747309eabf2f3d94a8de3d77d07d774f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scripts/BattleHUD.cs using Guid(747309eabf2f3d94a8de3d77d07d774f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce17875cdc3181b52b56174ade5e65f4') in 0.033386 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 65.106546 seconds.
+  path: Assets/Scripts/BattleSystem.cs
+  artifactKey: Guid(fd6f7c0fcf9aab5499819be730731f6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BattleSystem.cs using Guid(fd6f7c0fcf9aab5499819be730731f6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd48e0c2436c7dacd63938107cad75206') in 0.004847 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.717056 seconds.
+  path: Assets/Scripts/Unit.cs
+  artifactKey: Guid(a169054387ff74841a075a9e6a567602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Unit.cs using Guid(a169054387ff74841a075a9e6a567602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3c2fdbe89b098487e43195fc21363ff') in 0.005044 seconds 
